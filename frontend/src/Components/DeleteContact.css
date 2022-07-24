@@ -1,0 +1,16 @@
+#delete {
+  margin-top: 8em;
+}
+#card {
+  height: 250px;
+}
+#head {
+  padding: 50px;
+  text-align: center;
+}
+.but {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
